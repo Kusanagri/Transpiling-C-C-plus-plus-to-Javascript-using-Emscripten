@@ -1,0 +1,1 @@
+C:\Program Files\Emscripten\emscripten\1.35.0\em++ C:\Program Files\Emscripten\emscripten\1.35.0\test\multiply.cpp --js-library C:\Program Files\Emscripten\emscripten\1.35.0\test\multiply_in_js.js -o C:\Users\Asus\Desktop\new\multiply.js -s NO_EXIT_RUNTIME=1
